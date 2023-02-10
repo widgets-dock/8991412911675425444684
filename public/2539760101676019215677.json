@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834150902264",
+    "project_id": "sejuta-ide-bisnis",
+    "storage_bucket": "sejuta-ide-bisnis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834150902264:android:75780985b80a7475e20e0d",
+        "android_client_info": {
+          "package_name": "id.jalustudio.sejutabisnis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834150902264-2p9c30odq1mr8om0t1bmmd7thg45hg37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDglqNGn5IlQC2fx-y4d9B7pjJ0WCPW-D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834150902264-2p9c30odq1mr8om0t1bmmd7thg45hg37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
